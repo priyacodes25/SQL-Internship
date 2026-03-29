@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,
+product,varchar(50),YES,,NULL,
+amount,int,YES,,NULL,
